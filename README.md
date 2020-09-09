@@ -9,4 +9,4 @@ Here is a [Demo](https://vinc3nt.github.io/moodup/index.html)
 
 ## Sample
 
-![Sample]([https://github.com/vinc3nt/MoodUp/blob/master/image.png])
+![Sample]([https://raw.githubusercontent.com/vinc3nt/MoodUp/master/image.png])
