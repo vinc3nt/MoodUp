@@ -10,3 +10,9 @@ Here is a [Demo](https://vinc3nt.github.io/moodup/index.html)
 ## Sample
 
 ![Sample]([https://raw.githubusercontent.com/vinc3nt/MoodUp/master/image.png])
+<img
+src=“https://raw.githubusercontent.com/vinc3nt/MoodUp/master/image.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
